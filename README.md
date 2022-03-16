@@ -11,6 +11,8 @@ This project was made for the [2022 #4GoodAI hackathon](https://www.ada.wien/hac
 
 If you have any questions, problems or suggestions write us an [email](#authors) or open a [GitHub issue](https://github.com/hiubok/logos/issues).
 
+**[Demo](https://www.youtube.com/watch?v=oo2_16VFMwo)** (YouTube)
+
 ## Table of contents
 
 - [Usage](#usage)
