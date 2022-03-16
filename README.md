@@ -1,6 +1,6 @@
 # Logos
 
-[![Run on Repl.it](https://repl.it/badge/github/dx81/logos)](https://repl.it/@OliverKovacs/logos#README.md)
+[![Run on Repl.it](https://repl.it/badge/github/hiubok/logos)](https://repl.it/@OliverKovacs/logos#README.md)
 
 Logos is a chatbot that can fact-check news for you.
 
@@ -9,7 +9,7 @@ It is written in [Rust](https://www.rust-lang.org/) and can be run online in Rep
 
 This project was made for the [2022 #4GoodAI hackathon](https://www.ada.wien/hackathon-4-good-ai/hackathon-4goodai-2022/).
 
-If you have any questions, problems or suggestions write us an [email](#authors) or open a [GitHub issue](https://github.com/dx81/logos/issues).
+If you have any questions, problems or suggestions write us an [email](#authors) or open a [GitHub issue](https://github.com/hiubok/logos/issues).
 
 ## Table of contents
 
@@ -30,9 +30,9 @@ Click `Run`
 You need [Rust](https://www.rust-lang.org/) installed for this.  
 Clone the repo with [git](https://git-scm.com/)
 ```bash
-git clone https://github.com/dx81/logos && cd logos
+git clone https://github.com/hiubok/logos && cd logos
 ```
-or download as a [zip](https://github.com/dx81/logos/archive/main.zip).
+or download as a [zip](https://github.com/hiubok/logos/archive/main.zip).
 
 In the directory run the command
 ```bash
@@ -50,8 +50,6 @@ We used these technologies to create the bot (click on an icon for more info):
 [<img align="left" alt="GitHub" width="28px" src="./assets/github.svg" />](https://github.com/)
 [<img align="left" alt="Repl" width="28px" src="./assets/repl.png" />](https://repl.it/)
 [<img align="left" alt="Visual Studio Code" width="28px" src="./assets/vscode.svg" />](https://code.visualstudio.com/)
-
-&nbsp;
 
 ## Sources
 Logos uses the [Google Fact Check Tools API](https://developers.google.com/fact-check/tools/api) for getting information, which in turn relies on various other fact-checking websites.
