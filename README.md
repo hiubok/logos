@@ -53,6 +53,8 @@ We used these technologies to create the bot (click on an icon for more info):
 [<img align="left" alt="Repl" width="28px" src="./assets/repl.png" />](https://repl.it/)
 [<img align="left" alt="Visual Studio Code" width="28px" src="./assets/vscode.svg" />](https://code.visualstudio.com/)
 
+&nbsp;
+
 ## Sources
 Logos uses the [Google Fact Check Tools API](https://developers.google.com/fact-check/tools/api) for getting information, which in turn relies on various other fact-checking websites.
 
